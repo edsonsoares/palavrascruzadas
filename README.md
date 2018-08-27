@@ -17,11 +17,10 @@ A instalação "Palavras Cruzadas" faz parte da programação original do Museu 
 
 # Requerimentos
 
-Índice | User Story
------------- | -------------
-Explorando uma palavra | Considerando que o usuário acabou de se aproximar do monitor, e deseja saber mais sobre umas das palavras que passam pela tela, ele pode arrastar a palavra até o "inspector". O inspector abre novas telas com os conteúdos relacionados à palavra relacionada. Ao final, o usuário pode voltar a explorar novas palavras, ou navegar por um menu de conteúdos extras.
------------- | -------------
-Explorando conteúdos extras | Considerando que o usuário acabou de fazer a interação #1, ele têm acesso ao menu de conteúdos extras. Esses conteúdos são páginas com textos e imagens. Após explorar um dos conteúdos extras, ele pode voltar à página anterior onde ele pode voltar a explorar as palavras ou entrar em outro conteúdo extra.
+Índice | Título | User Story
+------------ | ------------- | -------------
+1 | Explorando uma palavra | Considerando que o usuário acabou de se aproximar do monitor, e deseja saber mais sobre umas das palavras que passam pela tela, ele pode arrastar a palavra até o "inspector". O inspector abre novas telas com os conteúdos relacionados à palavra relacionada. Ao final, o usuário pode voltar a explorar novas palavras, ou navegar por um menu de conteúdos extras.
+2 | Explorando conteúdos extras | Considerando que o usuário acabou de fazer a interação #1, ele têm acesso ao menu de conteúdos extras. Esses conteúdos são páginas com textos e imagens. Após explorar um dos conteúdos extras, ele pode voltar à página anterior onde ele pode voltar a explorar as palavras ou entrar em outro conteúdo extra.
 
 
 # User Interaction e Design
