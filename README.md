@@ -1,5 +1,3 @@
-# Palavras Cruzadas
-
 # Objetivo
 
 Permitir que os visitantes do Museu da Língua Portuguesa explorem termos da língua portuguesa e suas origens, comparando termos em uso corrente com o equivalente em suas línguas originais e descobrindo as nuances de significado, pronúncia e grafia. 
