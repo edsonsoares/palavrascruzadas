@@ -27,10 +27,8 @@ A instalação "Palavras Cruzadas" faz parte da programação original do Museu 
 
 ## 1) Explorando uma palavra
 
-
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/estadoinicial.png)
 Format: ![Alt Text](url)    
-
 
 ## 2) Explorando conteúdos extras
 
