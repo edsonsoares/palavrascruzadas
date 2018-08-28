@@ -1,6 +1,6 @@
 # Objetivo
 
-Permitir que os visitantes do Museu da Língua Portuguesa explorem termos da língua portuguesa e suas origens, comparando termos em uso corrente com o equivalente em suas línguas originais e descobrindo as nuances de significado, pronúncia e grafia. 
+Permitir que os visitantes do Museu da Língua Portuguesa explorem termos da língua portuguesa e suas origens em línguas diversas. Comparando termos em uso corrente com o equivalente nas línguas originais, o usuário aprende as nuances de significado, pronúncia e grafia. 
 
 
 # Background
@@ -25,7 +25,8 @@ A instalação "Palavras Cruzadas" faz parte da programação original do Museu 
 
 # User Interaction e Design
 
-## Explorando uma palavra
+## 1) Explorando uma palavra
 
-## Explorando conteúdos extras
+
+## 2) Explorando conteúdos extras
 
