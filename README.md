@@ -30,5 +30,6 @@ A instalação "Palavras Cruzadas" faz parte da programação original do Museu 
 ![GitHub Logo](/img/estadoinicial.png)
 Format: ![Alt Text](url)    
 
+
 ## 2) Explorando conteúdos extras
 
